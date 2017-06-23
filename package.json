@@ -5,12 +5,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/frappe.git"
+    "url": "git+https://github.com/alienhu/frappe.git"
   },
   "author": "Frappé Technologies Pvt. Ltd.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frappe/frappe/issues"
+    "url": "https://github.com/alienhu/frappe/issues"
   },
   "homepage": "https://frappe.io",
   "dependencies": {
